@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="include/NeighborMesh.h" open="1" top="0" tabpos="5">
+		<Cursor position="1563" topLine="39" />
+	</File>
+	<File name="include/ShapeContext.h" open="0" top="0" tabpos="3">
+		<Cursor position="270" topLine="15" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="2712" topLine="81" />
+	</File>
+	<File name="src/GenericKS.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="640" topLine="21" />
+	</File>
+	<File name="src/Mesh.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="8031" topLine="51" />
+	</File>
+	<File name="src/NeighborMesh.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="20014" topLine="675" />
+	</File>
+	<File name="src/ShapeContext.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="15210" topLine="312" />
+	</File>
+	<File name="src/scene.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="9839" topLine="367" />
+	</File>
+	<File name="src/useful.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="766" topLine="124" />
+	</File>
+	<File name="../../../../../../usr/include/eigen3/Eigen/src/Eigenvalues/EigenSolver.h" open="0" top="0" tabpos="0">
+		<Cursor position="14517" topLine="342" />
+	</File>
+</CodeBlocks_layout_file>
